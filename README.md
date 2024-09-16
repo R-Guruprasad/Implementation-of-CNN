@@ -6,6 +6,9 @@ To Develop a convolutional deep neural network for digit classification.
 
 ## Problem Statement and Dataset
 The goal of this project is to develop a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9), totaling 60,000 training images and 10,000 test images.
+<br>
+![image](https://github.com/user-attachments/assets/fc2338ff-99e7-4b83-abbe-161bb8b03236)
+
 
 ## Neural Network Model
 
