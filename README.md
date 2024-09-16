@@ -8,7 +8,7 @@ To Develop a convolutional deep neural network for digit classification.
 
 ## Neural Network Model
 
-Include the neural network model diagram.(http://alexlenail.me/NN-SVG/index.html)
+![image](https://github.com/user-attachments/assets/0a54e68a-933a-4e8b-a6c7-4d97fe89d9ba)
 
 ## DESIGN STEPS
 
@@ -28,6 +28,11 @@ Create the convulational model and compile the model
 Train the model
 
 ## PROGRAM
+
+### Name: R Guruprasad
+### Register Number: 212222240033
+
+
 ```python
 import numpy as np
 import tensorflow as tf
@@ -117,23 +122,16 @@ model = convolutional_model()
 training_history = model.fit(training_images, training_labels, epochs=10, callbacks=[EarlyStoppingCallback()])
 ```
 
-### Name:
-### Register Number:
-
-
-Include your code here
-
 ## OUTPUT
 
 ### Reshape and Normalize output
 
-Include your screenshot here
+![image](https://github.com/user-attachments/assets/70d5c324-eb22-4766-b073-123e08222a6d)
 
 ### Training the model output
 
-Include training output screenshot here
-
+![image](https://github.com/user-attachments/assets/adf673b1-c30d-450f-a924-259939f5d01e)
 
 
 ## RESULT
-Include your result here.
+Hence a convolutional deep neural network for digit classification was successfully developed.
